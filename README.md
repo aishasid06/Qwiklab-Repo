@@ -1,2 +1,2 @@
 # Qwiklab-Repo
-Following qwiklab instructions.
+I am editing the README file. Adding some more details about the project description.
